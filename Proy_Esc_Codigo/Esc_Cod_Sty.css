@@ -1,0 +1,90 @@
+.recuadro1{
+    width: 100%;
+    height: 60px;    
+    box-sizing: border-box;
+    border-bottom: 1px solid;
+    border-color: hsl(0.0%, 6.6%, 0.5);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color:white;
+}
+
+.recuadro2{
+    width: 100%;
+    height: 10px;
+    padding-top: 3px;
+    padding-bottom: 10px;
+    background-color: white;
+    
+}
+
+.barranav1{
+    display: flex;
+    font-size: 15px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 60%;
+    
+    
+}
+
+
+
+.cdmximg{
+
+    background-image: url("EsCodImg/ciudadmx.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 100%;
+    height: 350px;
+   
+    
+}
+
+.imgvector{
+    background-image: url("EsCodImg/hero-vector.svg");
+    background-repeat: no-repeat;    
+    padding-left: 3rem;
+    
+    
+    
+    
+
+}
+
+.imgtxt{
+
+    background-image: url("EsCodImg/ciudadmx.jpg");
+    background-repeat: no-repeat;
+    width: 80%;
+    height: 400px;
+    padding-top: 3rem;
+    margin-left: 10%;
+    
+    
+
+}
+    
+
+.texto{
+    
+    font-style: normal;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.txt1{
+    margin-left: 18%;
+}
+.txt2{
+    margin-left: 30%;
+}
+
+.ins{
+    background-color: white;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
